@@ -51,7 +51,7 @@ export default function Upload() {
         setLoader("flex")
            // https://fish-it-backend.onrender.com/upload
         try {
-            const response = await axios.post("https://fishitbackend-production.up.railway.app/upload", data);
+            const response = await axios.post("https://fish-it-backend-1.onrender.com/upload", data);
             alert(response.data);
             setLoader('none');
         } catch (error) {
