@@ -1,12 +1,13 @@
 # 🐟 Fish-It
 
 <div align="center">
+   
+## A lightweight, secure file-sharing web application for quick device-to-device transfers.
+![Fish-it](https://github.com/Mr-Malik-Aryan/Fish-it/blob/master/public/Screenshot%20from%202025-03-06%2018-52-56.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-A lightweight, secure file-sharing web application for quick device-to-device transfers.
-![Fish-it](https://github.com/Mr-Malik-Aryan/Fish-it/blob/master/public/Screenshot%20from%202025-03-06%2018-52-56.png)
 
 [Live Demo](https://fish-it.vercel.app/) | [Report Bug](https://github.com/Mr-Malik-Aryan/Fish-itFrontend/issues) | [Request Feature](https://github.com/Mr-Malik-Aryan/Fish-itFrontend/issues)
 
