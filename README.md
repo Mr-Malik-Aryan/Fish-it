@@ -3,7 +3,8 @@
 <div align="center">
    
 ## A lightweight, secure file-sharing web application for quick device-to-device transfers.
-![Fish-it](https://github.com/Mr-Malik-Aryan/Fish-it/blob/master/public/Screenshot%20from%202025-03-06%2018-52-56.png)
+<img width="1920" height="938" alt="image" src="https://github.com/user-attachments/assets/8686b008-0ef5-4799-869a-bf97eab77662" />
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
